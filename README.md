@@ -13,7 +13,3 @@ Project ini menggunakan model Long Short-Term Memory (LSTM) untuk memprediksi pe
 ## Dataset
 Dataset yang digunakan dalam project ini dapat diakses melalui [Walmart Sales Exploration Dataset](https://www.kaggle.com/code/msjahid/walmart-sales-exploration/input) di Kaggle.
 
-## Metrik Evaluasi 
-- *RMSE (Root Mean Squared Error)*: 109,328
-- *MAE (Mean Absolute Error)*: 57,875
-- *MAPE (Mean Absolute Percentage Error)*: 7.39%
