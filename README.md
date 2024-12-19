@@ -13,3 +13,7 @@ Project ini menggunakan model Long Short-Term Memory (LSTM) untuk memprediksi pe
 ## Dataset
 Dataset yang digunakan dalam project ini dapat diakses melalui [Walmart Sales Exploration Dataset](https://www.kaggle.com/code/msjahid/walmart-sales-exploration/input) di Kaggle.
 
+## Metrik Evaluasi
+**RMSE** : 2152542.6967006368
+**MAE** : 1808226.9340740752
+**MAPE** : 3.80%
