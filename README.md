@@ -15,5 +15,7 @@ Dataset yang digunakan dalam project ini dapat diakses melalui [Walmart Sales Ex
 
 ## Metrik Evaluasi
 **RMSE** : 2152542.6967006368
+
 **MAE** : 1808226.9340740752
+
 **MAPE** : 3.80%
